@@ -1,0 +1,14 @@
+{
+  "emp_details": [
+    {
+      "emp_name": "E1",
+      "email": "emailaddress@something.com",
+      "address": "Here"
+    },
+    {
+      "emp_name": "E2",
+      "email": "something@email.com",
+      "address": "There"
+    }
+  ]
+}
